@@ -63,4 +63,19 @@
       "state": "Delhi",
       "country": "India"
     }
+  },{
+    "id": "Djisu",
+    "name": "Paul Fleischer-Djoleto",
+    "img": "https://my-portfolio-paul.herokuapp.com/images/my%20photo%20new.png",
+    "links": {
+      "website": "https://my-portfolio-paul.herokuapp.com/",
+      "linkedin": "https://www.linkedin.com/in/paul-fleischer-djoleto-3162492b/",
+      "github": "https://github.com/Djisu"
+    },
+    "jobTitle": "Full Stack Developer",
+    "location": {
+      "city": "Tema",
+      "state": "Greater Accra",
+      "country": "Ghana"
+    }
   }
